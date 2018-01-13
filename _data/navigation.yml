@@ -1,0 +1,19 @@
+- title: Home
+  url: "/"
+  side: left
+
+- title: "Discussions That Work"
+  url: "/DiscussionsThatWork/"
+  side: left
+
+- title: "Presentations That Work"
+  url: "/PresentationsThatWork/"
+  side: left
+
+- title: "Recorded Presentations."
+  url: "/RecordedPresentations/"
+  side: left
+
+- title: "Search"
+  url: "/search/"
+  side: right

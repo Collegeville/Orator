@@ -1,2 +1,2 @@
 # Orator
-Effective Speaking
+Effective Speaking and Listening
